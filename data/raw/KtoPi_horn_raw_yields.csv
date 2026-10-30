@@ -3,22 +3,22 @@ sqrt_sNN_GeV,experiment,system,species,centrality,yield,error,source,feeddown_co
 2.4,HADES,Au+Au,K-,0-20%*,0.000336,3.9e-05,"HADES, Phys. Lett. B 778, 403 (2018), arXiv:1703.08418, Table I (K- 0-20%: centrality differs from the pions)",includes phi -> K+K- (strong decay)
 2.4,HADES,Au+Au,pi+,0-10%,9.3,0.565685,"HADES, Eur. Phys. J. A 56, 259 (2020), arXiv:2005.08774, Table 3 (4pi multiplicity, 0-10%)",not confirmed in the paper; negligible expected at 2.4 GeV
 2.4,HADES,Au+Au,pi-,0-10%,17.1,1.204159,"HADES, Eur. Phys. J. A 56, 259 (2020), arXiv:2005.08774, Table 3 (4pi multiplicity, 0-10%)",not confirmed in the paper; negligible expected at 2.4 GeV
-3.2,STAR FXT,Au+Au,K+,0-5%,2.4224702,0.152092,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-3.2,STAR FXT,Au+Au,K-,0-5%,0.17201578,0.011291,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-3.2,STAR FXT,Au+Au,pi+,0-5%,30.876167,2.180406,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
-3.2,STAR FXT,Au+Au,pi-,0-5%,43.028083,3.577516,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
-3.5,STAR FXT,Au+Au,K+,0-5%,3.6793249,0.371208,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-3.5,STAR FXT,Au+Au,K-,0-5%,0.35871675,0.03944,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-3.5,STAR FXT,Au+Au,pi+,0-5%,38.172141,2.548111,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
-3.5,STAR FXT,Au+Au,pi-,0-5%,50.709332,3.9827,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
-3.9,STAR FXT,Au+Au,K+,0-5%,6.0166001,0.700717,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-3.9,STAR FXT,Au+Au,K-,0-5%,0.86693804,0.129578,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-3.9,STAR FXT,Au+Au,pi+,0-5%,45.643845,3.017721,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
-3.9,STAR FXT,Au+Au,pi-,0-5%,57.094122,4.22241,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
-4.5,STAR FXT,Au+Au,K+,0-5%,8.9202717,1.131391,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-4.5,STAR FXT,Au+Au,K-,0-5%,1.4405479,0.168205,"STAR fixed-target yields, file yieldsForBrandon.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
-4.5,STAR FXT,Au+Au,pi+,0-5%,55.088929,3.96315,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
-4.5,STAR FXT,Au+Au,pi-,0-5%,65.347391,4.60129,"STAR fixed-target yields, file yieldsForBrandon.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+3.2,STAR FXT,Au+Au,K+,0-5%,2.4224702,0.152092,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+3.2,STAR FXT,Au+Au,K-,0-5%,0.17201578,0.011291,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+3.2,STAR FXT,Au+Au,pi+,0-5%,30.876167,2.180406,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+3.2,STAR FXT,Au+Au,pi-,0-5%,43.028083,3.577516,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+3.5,STAR FXT,Au+Au,K+,0-5%,3.6793249,0.371208,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+3.5,STAR FXT,Au+Au,K-,0-5%,0.35871675,0.03944,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+3.5,STAR FXT,Au+Au,pi+,0-5%,38.172141,2.548111,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+3.5,STAR FXT,Au+Au,pi-,0-5%,50.709332,3.9827,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+3.9,STAR FXT,Au+Au,K+,0-5%,6.0166001,0.700717,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+3.9,STAR FXT,Au+Au,K-,0-5%,0.86693804,0.129578,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+3.9,STAR FXT,Au+Au,pi+,0-5%,45.643845,3.017721,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+3.9,STAR FXT,Au+Au,pi-,0-5%,57.094122,4.22241,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+4.5,STAR FXT,Au+Au,K+,0-5%,8.9202717,1.131391,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+4.5,STAR FXT,Au+Au,K-,0-5%,1.4405479,0.168205,"STAR fixed-target yields, file yieldsFXT.txt, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",not applicable
+4.5,STAR FXT,Au+Au,pi+,0-5%,55.088929,3.96315,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
+4.5,STAR FXT,Au+Au,pi-,0-5%,65.347391,4.60129,"STAR fixed-target yields, file yieldsFXT.txt, primordial pions, bin closest to y=0 (ORIGINAL PUBLICATION TO BE ADDED)",primordial = weak-decay feed-down subtracted (confirm with source)
 6.3,NA49,Pb+Pb,K+,0-7.2%,16.4,0.72111,"NA49, Alt et al., Phys. Rev. C 77, 024903 (2008), arXiv:0710.0118, Table I (7.2% most central)",not stated in the source
 6.3,NA49,Pb+Pb,K-,0-7.2%,5.58,0.130384,"NA49, Alt et al., Phys. Rev. C 77, 024903 (2008), arXiv:0710.0118, Table I (7.2% most central)",not stated in the source
 6.3,NA49,Pb+Pb,pi+,0-7.2%,72.9,3.612478,"NA49, Alt et al., Phys. Rev. C 77, 024903 (2008), arXiv:0710.0118, Table I (7.2% most central)",pi from strong and electromagnetic processes only

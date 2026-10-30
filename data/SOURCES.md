@@ -22,7 +22,7 @@ All yields were transcribed by hand from the published tables. Verify them again
 | NA49 protons | Alt et al., Phys. Rev. C 73, 044910 (2006), arXiv:nucl-ex/0512033 | Table III, p and pbar | feed-down subtracted (about 15% for p, up to about 50% for pbar); tabulated errors are statistical, 10% systematic added here |
 | HADES pions, Au+Au 2.4 GeV | HADES, Eur. Phys. J. A 56, 259 (2020), arXiv:2005.08774 | Table 3, 4pi multiplicities, 0-10% | not confirmed; negligible expected |
 | HADES kaons | HADES, Phys. Lett. B 778, 403 (2018), arXiv:1703.08418 | Table I: K+ 0-10%; K-/K+ for 0-20% | includes phi -> K+K- |
-| STAR fixed target, Au+Au 3.2-4.5 GeV | **source publication to be added** (data from `yieldsForBrandon.txt`) | pi (primordial) and K dN/dy in the bin closest to y = 0, 0-5% | "primordial" assumed to mean weak decays subtracted (confirm) |
+| STAR fixed target, Au+Au 3.2-4.5 GeV | **source publication to be added** (data from `yieldsFXT.txt`) | pi (primordial) and K dN/dy in the bin closest to y = 0, 0-5% | "primordial" assumed to mean weak decays subtracted (confirm) |
 | Thermal-FIST 1.6.1 | Vovchenko and Stoecker, Comput. Phys. Commun. 244, 295 (2019), arXiv:1901.05249 | fitting software, PDG2025 particle list (460 particles incl. nuclei) | feed-down codes: 3 = strong+EM, 2 = strong+EM+weak |
 | Freeze-out curve | Cleymans, Oeschler, Redlich, Wheaton, Phys. Rev. C 73, 034905 (2006), hep-ph/0511094 | mu_B = 1.308 GeV/(1 + 0.273 GeV^-1 sqrt(s)); T = 0.166 - 0.139 mu_B^2 - 0.053 mu_B^4 (GeV) | - |
 | Dashed curve in Fig. 3 | Andronic, Braun-Munzinger, Stachel et al. (**confirm which paper**) | T_lim = 158.4 MeV, mu_B = 1307.5 MeV/(1 + 0.288 sqrt(s)) | - |

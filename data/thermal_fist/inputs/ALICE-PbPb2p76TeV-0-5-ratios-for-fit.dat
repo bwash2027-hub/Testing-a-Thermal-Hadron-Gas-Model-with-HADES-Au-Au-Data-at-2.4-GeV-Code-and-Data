@@ -1,0 +1,8 @@
+# ALICE Pb-Pb 2.76 TeV 0-5% ratios, Phys. Rev. C 88, 044910 (arXiv:1303.0737) table; primary particles (weak decays of strange particles excluded)
+# feeddown 3 = strong+EM (weak excluded) for all species
+#     is_fitted           pdg1           pdg2      feeddown1      feeddown2          value          error
+              1           -211            211              3              3         0.9986            0.1
+              1           -321            321              3              3              1           0.12
+              1          -2212           2212              3              3         0.9706           0.12
+              1           -321           -211              3              3         0.1489          0.016
+              1          -2212           -211              3              3        0.04508         0.0052

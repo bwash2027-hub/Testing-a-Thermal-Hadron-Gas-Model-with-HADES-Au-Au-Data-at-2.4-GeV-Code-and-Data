@@ -1,0 +1,24 @@
+Thermal fit to ALICE-PbPb2p76TeV-0-5-ratios-for-fit.dat within ThermalModelIdeal
+
+Performed on 15-10-2026 at 11:10:02
+
+chi2/dof = 0.000974541/2 = 0.000487271
+
+Data description accuracy = (0.29 +- 11.58) %
+
+Extracted parameters:
+         T[MeV] =         140.349 +- 4.30736        
+          R[fm] =               8 (FIXED)	         V[fm3] =         2144.66 (FIXED)
+       muB[MeV] =         2.07198 +- 8.66391        
+       muQ[MeV] =               0 (FIXED)
+       muS[MeV] =        0.268112 (FIXED)
+         gammaq =               1 (FIXED)
+         gammaS =        0.823228 +- 0.0958453      
+
+
+Yields:
+                  pi-/pi+ Experiment:          0.9986 +- 0.1             Model: 0.999995        Std.dev.: 0.0139516       
+                    K-/K+ Experiment:               1 +- 0.12            Model: 0.996671        Std.dev.: -0.0277377      
+                 anti-p/p Experiment:          0.9706 +- 0.12            Model: 0.970989        Std.dev.: 0.00324189      
+                   K-/pi- Experiment:          0.1489 +- 0.016           Model: 0.148899        Std.dev.: -4.03648e-05    
+               anti-p/pi- Experiment:         0.04508 +- 0.0052          Model: 0.0450798       Std.dev.: -3.48084e-05    

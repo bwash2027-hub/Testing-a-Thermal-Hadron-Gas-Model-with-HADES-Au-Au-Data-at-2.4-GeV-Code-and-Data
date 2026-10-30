@@ -1,0 +1,24 @@
+Thermal fit to STAR-AuAu11p5GeV-0-5-ratios.dat within ThermalModelIdeal
+
+Performed on 05-10-2026 at 08:27:14
+
+chi2/dof = 0.889775/2 = 0.444888
+
+Data description accuracy = (8.62 +- 15.95) %
+
+Extracted parameters:
+         T[MeV] =         149.703 +- 6.44141        
+          R[fm] =               8 (FIXED)	         V[fm3] =         2144.66 (FIXED)
+       muB[MeV] =          289.63 +- 27.6704        
+       muQ[MeV] =        -7.52088 (FIXED)
+       muS[MeV] =         62.5971 (FIXED)
+         gammaq =               1 (FIXED)
+         gammaS =        0.802125 +- 0.138251       
+
+
+Yields:
+                  pi-/pi+ Experiment:           1.048 +- 0.15            Model: 1.07135         Std.dev.: 0.155678        
+                    K-/K+ Experiment:           0.492 +- 0.069           Model: 0.536311        Std.dev.: 0.64219         
+                 anti-p/p Experiment:         0.03409 +- 0.0061          Model: 0.0307808       Std.dev.: -0.54249        
+                   K-/pi- Experiment:         0.09476 +- 0.013           Model: 0.0947687       Std.dev.: 0.000667954     
+               anti-p/pi- Experiment:         0.01156 +- 0.0019          Model: 0.0123172       Std.dev.: 0.398543        

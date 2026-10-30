@@ -1,0 +1,24 @@
+Thermal fit to NA49-PbPb30A-ratios (1).dat within ThermalModelIdeal
+
+Performed on 13-10-2026 at 02:08:07
+
+chi2/dof = 0.745846/2 = 0.372923
+
+Data description accuracy = (6.93 +- 13.29) %
+
+Extracted parameters:
+         T[MeV] =         140.166 +- 4.75141        
+          R[fm] =               8 (FIXED)	         V[fm3] =         2144.66 (FIXED)
+       muB[MeV] =         412.326 +- 17.5168        
+       muQ[MeV] =        -10.6936 (FIXED)
+       muS[MeV] =         93.0895 (FIXED)
+         gammaq =               1 (FIXED)
+         gammaS =         1.02153 +- 0.092538       
+
+
+Yields:
+                  pi-/pi+ Experiment:           1.163 +- 0.083           Model: 1.11899         Std.dev.: -0.530195       
+                    K-/K+ Experiment:          0.3679 +- 0.027           Model: 0.371678        Std.dev.: 0.139915        
+                 anti-p/p Experiment:          0.0038 +- 0.00074         Model: 0.00339933      Std.dev.: -0.541446       
+                   K-/pi- Experiment:         0.08083 +- 0.0047          Model: 0.0809503       Std.dev.: 0.0255892       
+               anti-p/pi- Experiment:        0.001658 +- 0.00028         Model: 0.00176693      Std.dev.: 0.38903         

@@ -1,0 +1,17 @@
+experiment,variant,ensemble,sqrt_sNN_GeV,T,T_err,muB,muB_err,muB_fixed
+HADES,standard,grand-canonical,2.4,36.5289,0.571922,790,,True
+HADES,standard,strangeness-canonical,2.4,42.9614,1.94762,790,,True
+STAR FXT,standard,grand-canonical,3.2,65.9539,1.51799,698,,True
+STAR FXT,standard,grand-canonical,3.5,71.9873,2.45024,669,,True
+STAR FXT,standard,grand-canonical,3.9,82.2187,3.8214,634,,True
+STAR FXT,standard,grand-canonical,4.5,93.3004,5.59822,587,,True
+NA49,standard,grand-canonical,6.3,128.966,3.03632,443.932,10.3898,False
+NA49,p inclusive,grand-canonical,6.3,120.832,2.09592,449.654,9.86441,False
+NA49,standard,grand-canonical,7.6,140.166,4.75141,412.326,17.5168,False
+NA49,p inclusive,grand-canonical,7.6,128.622,2.47418,416.752,15.5715,False
+STAR,standard,grand-canonical,7.7,141.699,4.3384,401.924,24.9701,False
+STAR,standard,grand-canonical,11.5,149.703,6.44141,289.63,27.6704,False
+STAR,standard,grand-canonical,19.6,150.824,7.21158,179.635,23.4384,False
+STAR,standard,grand-canonical,27,150.355,7.0978,139.639,19.5506,False
+STAR,standard,grand-canonical,39,150.974,7.42306,96.2224,17.3144,False
+ALICE,standard,grand-canonical,2760,140.349,4.30736,2.07198,8.66391,False

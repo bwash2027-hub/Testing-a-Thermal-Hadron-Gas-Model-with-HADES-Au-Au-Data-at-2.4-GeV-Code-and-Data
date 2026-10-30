@@ -1,0 +1,22 @@
+Thermal fit to STARFXT-AuAu3p5GeV-ratios.dat within ThermalModelIdeal
+
+Performed on 15-10-2026 at 04:44:30
+
+chi2/dof = 0.671805/2 = 0.335903
+
+Data description accuracy = (7.57 +- 12.62) %
+
+Extracted parameters:
+         T[MeV] =         71.9873 +- 2.45024        
+          R[fm] =               8 (FIXED)	         V[fm3] =         2144.66 (FIXED)
+       muB[MeV] =             669 (FIXED)
+       muQ[MeV] =        -11.7239 (FIXED)
+       muS[MeV] =         100.492 (FIXED)
+         gammaq =               1 (FIXED)
+         gammaS =               1 (FIXED)
+
+
+Yields:
+                  pi-/pi+ Experiment:           1.328 +- 0.14            Model: 1.40812         Std.dev.: 0.572294        
+                    K-/K+ Experiment:          0.0975 +- 0.015           Model: 0.0886987       Std.dev.: -0.586754       
+                   K+/pi+ Experiment:         0.09639 +- 0.012           Model: 0.0964124       Std.dev.: 0.00186482      

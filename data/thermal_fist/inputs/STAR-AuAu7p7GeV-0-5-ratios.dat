@@ -1,0 +1,8 @@
+# STAR Au+Au 7.7 GeV 0-5% ratios (Table VI of arXiv:1701.07065), errors = uncorrelated quadrature of combined stat+syst
+# feeddown: 3 = strong+EM decays (weak excluded; STAR pions/kaons are weak-decay corrected), 2 = strong+EM+weak (STAR p and pbar are inclusive)
+#     is_fitted           pdg1           pdg2      feeddown1      feeddown2          value          error
+              1           -211            211              3              3         1.0707         0.1362
+              1           -321            321              3              3         0.3702         0.0418
+              1          -2212           2212              2              2         0.0071         0.0012
+              1           -321           -211              3              3          0.077         0.0092
+              1          -2212           -211              2              3         0.0039         0.0006

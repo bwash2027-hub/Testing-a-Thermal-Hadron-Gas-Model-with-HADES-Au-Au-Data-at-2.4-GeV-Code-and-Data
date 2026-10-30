@@ -1,0 +1,6 @@
+# STAR FXT Au+Au 3.9 GeV 0-5%: ratios from near-midrapidity dN/dy (primordial pions), stat+syst in quadrature (uncorrelated)
+# feeddown 3 = strong+EM (weak excluded) for pions (primordial) and kaons
+#     is_fitted           pdg1           pdg2      feeddown1      feeddown2          value          error
+              1           -211            211              3              3          1.251           0.12
+              1           -321            321              3              3         0.1441          0.027
+              1            321            211              3              3         0.1318          0.018

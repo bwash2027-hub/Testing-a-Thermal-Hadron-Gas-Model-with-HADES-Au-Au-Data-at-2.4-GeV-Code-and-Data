@@ -1,0 +1,22 @@
+Thermal fit to HADES-AuAu2p4GeV-ratios.dat within ThermalModelIdeal
+
+Performed on 15-10-2026 at 04:33:58
+
+chi2/dof = 12.3023/2 = 6.15115
+
+Data description accuracy = (40.02 +- 8.72) %
+
+Extracted parameters:
+         T[MeV] =         36.5289 +- 0.571922       
+          R[fm] =               8 (FIXED)	         V[fm3] =         2144.66 (FIXED)
+       muB[MeV] =             790 (FIXED)
+       muQ[MeV] =        -13.3287 (FIXED)
+       muS[MeV] =         115.411 (FIXED)
+         gammaq =               1 (FIXED)
+         gammaS =               1 (FIXED)
+
+
+Yields:
+                  pi-/pi+ Experiment:           1.839 +- 0.17            Model: 2.09183         Std.dev.: 1.48723         
+                   K+/pi+ Experiment:         0.00643 +- 0.00083         Model: 0.00699918      Std.dev.: 0.685754        
+                    K-/K+ Experiment:         0.00717 +- 0.0011          Model: 0.00375819      Std.dev.: -3.10164        

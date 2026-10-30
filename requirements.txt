@@ -1,0 +1,5 @@
+numpy
+pandas
+scipy
+matplotlib
+jupyter   # only needed to open the notebook

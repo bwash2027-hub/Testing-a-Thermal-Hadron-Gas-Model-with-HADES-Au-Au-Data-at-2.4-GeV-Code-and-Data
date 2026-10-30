@@ -1,0 +1,8 @@
+# NA49 central Pb+Pb 30A GeV ratios. pi,K: arXiv:0710.0118 Table I; p,pbar: arXiv:nucl-ex/0512033 Table III (p,pbar errors: quoted stat + assumed 10% sys)
+# VARIANT: protons treated as inclusive (feeddown 2) - use to test sensitivity to the NA49 proton feed-down assumption
+#     is_fitted           pdg1           pdg2      feeddown1      feeddown2          value          error
+              1           -211            211              3              3          1.163          0.083
+              1           -321            321              3              3         0.3679          0.027
+              1          -2212           2212              2              2         0.0038        0.00074
+              1           -321           -211              3              3        0.08083         0.0047
+              1          -2212           -211              2              3       0.001658        0.00028

@@ -1,0 +1,22 @@
+Thermal fit to HADES-AuAu2p4GeV-ratios.dat within ThermalModelCanonicalStrangeness
+
+Performed on 17-10-2026 at 09:38:06
+
+chi2/dof = 3.24007/1 = 3.24007
+
+Data description accuracy = (16.39 +- 10.82) %
+
+Extracted parameters:
+         T[MeV] =         42.9614 +- 1.94762        
+          R[fm] =               8 (FIXED)	         V[fm3] =         2144.66 (FIXED)
+         Rc[fm] =         20.9737 +- 5.65529        	        Vc[fm3] =         38646.8 +- 31261.9        
+       muB[MeV] =             790 (FIXED)
+       muQ[MeV] =        -15.9651 (FIXED)
+         gammaq =               1 (FIXED)
+         gammaS =               1 (FIXED)
+
+
+Yields:
+                  pi-/pi+ Experiment:           1.839 +- 0.17            Model: 2.14328         Std.dev.: 1.78989         
+                   K+/pi+ Experiment:         0.00643 +- 0.00083         Model: 0.00642926      Std.dev.: -0.0008964      
+                    K-/K+ Experiment:         0.00717 +- 0.0011          Model: 0.00696023      Std.dev.: -0.190696       
